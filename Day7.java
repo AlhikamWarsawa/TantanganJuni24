@@ -22,7 +22,7 @@ public class Day7 {
                 System.out.println("Hari Tidak Valid");
         }
 
-        // If Statement, String
+        // If Statement,  String
         if (HariKerja = true) {
             System.out.println(Hari + " " + "Adalah Hari Kerja");
         } else {
